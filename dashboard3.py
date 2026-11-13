@@ -239,10 +239,10 @@ Hello Farmer! 🍄 Welcome to your professional Button Mushroom (Agaricus bispor
     </div>
 
     <div class="presets">
-        <div class="chip" onclick="sendPreset('Guide me through Phase I and Phase II composting for button mushrooms.')">🌾 Composting Guide</div>
-        <div class="chip" onclick="sendPreset('How do I prepare and apply the peat moss casing layer?')">🥣 Casing Setup</div>
-        <div class="chip" onclick="sendPreset('What is the precise temperature shock procedure for pinning?')">❄️ Pinning Shock</div>
-        <div class="chip" onclick="sendPreset('How do I prevent and treat Wet Bubble disease (Mycogone)?')">⚠️ Disease Control</div>
+        <div class="chip" onclick="sendPreset('Guide me through Phase I and Phase II composting for button mushrooms.')">  Composting Guide</div>
+        <div class="chip" onclick="sendPreset('How do I prepare and apply the peat moss casing layer?')">  Casing Setup</div>
+        <div class="chip" onclick="sendPreset('What is the precise temperature shock procedure for pinning?')">  Pinning Shock</div>
+        <div class="chip" onclick="sendPreset('How do I prevent and treat Wet Bubble disease (Mycogone)?')">  Disease Control</div>
     </div>
 
     <div class="input-area">
